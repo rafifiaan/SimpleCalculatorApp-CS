@@ -1,0 +1,10 @@
+C:\Users\RAFI ALIEFIAN\source\repos\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\RAFI ALIEFIAN\source\repos\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.Form1.resources
+C:\Users\RAFI ALIEFIAN\source\repos\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.Properties.Resources.resources
+C:\Users\RAFI ALIEFIAN\source\repos\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.csproj.GenerateResource.cache
+C:\Users\RAFI ALIEFIAN\source\repos\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\RAFI ALIEFIAN\source\repos\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.exe.config
+C:\Users\RAFI ALIEFIAN\source\repos\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.exe
+C:\Users\RAFI ALIEFIAN\source\repos\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.pdb
+C:\Users\RAFI ALIEFIAN\source\repos\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.exe
+C:\Users\RAFI ALIEFIAN\source\repos\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.pdb
