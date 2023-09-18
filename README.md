@@ -1,6 +1,6 @@
 ## Simple Calculator App using .NET Framework & C#
 
-Created with `Visual Studio 2022` & Windows Forms App (.NET Framework) Templates
+Created with `Visual Studio 2022` & Windows Forms App / WFA (.NET Framework) Templates
 
 - User Interface :
 
